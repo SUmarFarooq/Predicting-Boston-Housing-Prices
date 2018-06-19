@@ -1,7 +1,6 @@
-# Predicting-Boston-Housing-Prices
-A Jupyter Notebook using various machine learning algorithms to predict housing prices in Boston, MA.
-
-Additional background from the Udacity README can be found below.
+# Machine Learning Engineer Nanodegree
+# Model Evaluation and Validation
+## Project: Predicting Boston Housing Prices
 
 ### Install
 
